@@ -1,5 +1,5 @@
 ### Olá, sou Leandro Leance
-#### futuro desenvolvedor full-stack
+### Futuro desenvolvedor full-stack !
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/leandro-leance-581471243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
